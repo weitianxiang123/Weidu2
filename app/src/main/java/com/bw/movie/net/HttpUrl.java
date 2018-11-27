@@ -1,4 +1,4 @@
-package com.bw.movie.Httpurl;
+package com.bw.movie.net;
 
 /**
  * 魏天祥

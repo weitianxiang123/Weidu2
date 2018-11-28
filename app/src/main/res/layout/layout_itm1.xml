@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:gravity="center_horizontal"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/start_imageview"
+        android:layout_marginTop="@dimen/dp_105"
+        android:src="@mipmap/start1"
+        android:layout_width="@dimen/dp_205"
+        android:layout_height="@dimen/dp_205" />
+    <TextView
+        android:gravity="center"
+        android:text="一场电影"
+        android:layout_marginTop="@dimen/dp_370"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/dp_22" />
+    <TextView
+        android:gravity="center"
+        android:text="档条你的心灵"
+        android:layout_marginTop="@dimen/dp_410"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+
+
+
+</RelativeLayout>
